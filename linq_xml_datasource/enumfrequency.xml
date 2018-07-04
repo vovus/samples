@@ -1,0 +1,15 @@
+﻿<DataTable>
+<enumfrequency><Id>3</Id><Name>Annual</Name></enumfrequency>
+<enumfrequency><Id>7</Id><Name>Bimonthly</Name></enumfrequency>
+<enumfrequency><Id>10</Id><Name>Biweekly</Name></enumfrequency>
+<enumfrequency><Id>12</Id><Name>Daily</Name></enumfrequency>
+<enumfrequency><Id>5</Id><Name>Every-fourth-Month</Name></enumfrequency>
+<enumfrequency><Id>9</Id><Name>Every-fourth-week</Name></enumfrequency>
+<enumfrequency><Id>8</Id><Name>Monthly</Name></enumfrequency>
+<enumfrequency><Id>1</Id><Name>NoFrequency</Name></enumfrequency>
+<enumfrequency><Id>2</Id><Name>Once</Name></enumfrequency>
+<enumfrequency><Id>13</Id><Name>OtherFrequency</Name></enumfrequency>
+<enumfrequency><Id>6</Id><Name>Quarterly</Name></enumfrequency>
+<enumfrequency><Id>4</Id><Name>Semiannual</Name></enumfrequency>
+<enumfrequency><Id>11</Id><Name>Weekly</Name></enumfrequency>
+</DataTable>

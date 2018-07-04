@@ -1,0 +1,7 @@
+﻿<DataTable>
+
+<currency><Id>1</Id><ClassName>ARSCurrency</ClassName><Name></Name><Code></Code><NumericCode></NumericCode><Symbol></Symbol><FractionSymbol></FractionSymbol><FractionsPerUnit></FractionsPerUnit><Rounding></Rounding><RoundingDigit></RoundingDigit><UserCreated></UserCreated><IpCreated></IpCreated></currency>
+<currency><Id>2</Id><ClassName>ATSCurrency</ClassName><Name></Name><Code></Code><NumericCode></NumericCode><Symbol></Symbol><FractionSymbol></FractionSymbol><FractionsPerUnit></FractionsPerUnit><Rounding></Rounding><RoundingDigit></RoundingDigit><UserCreated></UserCreated><IpCreated></IpCreated></currency>
+<currency><Id>3</Id><ClassName>AUDCurrency</ClassName><Name></Name><Code></Code><NumericCode></NumericCode><Symbol></Symbol><FractionSymbol></FractionSymbol><FractionsPerUnit></FractionsPerUnit><Rounding></Rounding><RoundingDigit></RoundingDigit><UserCreated></UserCreated><IpCreated></IpCreated></currency>
+
+</DataTable>

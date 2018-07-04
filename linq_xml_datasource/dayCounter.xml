@@ -1,0 +1,7 @@
+﻿<DataTable>
+<daycounter><Id>1</Id><Name></Name><ClassName>Actual360</ClassName><ClassNameParam></ClassNameParam></daycounter>
+<daycounter><Id>2</Id><Name></Name><ClassName>Actual365Fixed</ClassName><ClassNameParam></ClassNameParam></daycounter>
+<daycounter><Id>3</Id><Name></Name><ClassName>ActualActual</ClassName><ClassNameParam>ISDA</ClassNameParam></daycounter>
+<daycounter><Id>4</Id><Name></Name><ClassName>Business252</ClassName><ClassNameParam></ClassNameParam></daycounter>
+<daycounter><Id>5</Id><Name></Name><ClassName>Thirty360</ClassName><ClassNameParam></ClassNameParam></daycounter>
+</DataTable>

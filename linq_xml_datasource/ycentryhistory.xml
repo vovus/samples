@@ -1,0 +1,15 @@
+﻿<DataTable>
+
+<ycentryhistory><Id>1</Id><YcEntryId>1</YcEntryId><Date>2011-05-05</Date><Value>0.0087208</Value><UserCreated>1</UserCreated><IpCreated>192.168.0.0</IpCreated></ycentryhistory>
+<ycentryhistory><Id>2</Id><YcEntryId>2</YcEntryId><Date>2011-05-05</Date><Value>0.01194758875</Value><UserCreated>1</UserCreated><IpCreated>192.168.0.0</IpCreated></ycentryhistory>
+<ycentryhistory><Id>3</Id><YcEntryId>3</YcEntryId><Date>2011-05-05</Date><Value>0.01208621925</Value><UserCreated>1</UserCreated><IpCreated>192.168.0.0</IpCreated></ycentryhistory>
+
+<ycentryhistory><Id>141</Id><YcEntryId>1</YcEntryId><Date>2011-09-05</Date><Value>0.0060372</Value><UserCreated>1</UserCreated><IpCreated>192.168.0.0</IpCreated></ycentryhistory>
+<ycentryhistory><Id>142</Id><YcEntryId>2</YcEntryId><Date>2011-09-05</Date><Value>0.011892</Value><UserCreated>1</UserCreated><IpCreated>192.168.0.0</IpCreated></ycentryhistory>
+<ycentryhistory><Id>143</Id><YcEntryId>3</YcEntryId><Date>2011-09-05</Date><Value>0.01201093025</Value><UserCreated>1</UserCreated><IpCreated>192.168.0.0</IpCreated></ycentryhistory>
+
+<ycentryhistory><Id>281</Id><YcEntryId>1</YcEntryId><Date>2011-05-12</Date><Value>0.0101047925</Value><UserCreated>1</UserCreated><IpCreated>192.168.0.0</IpCreated></ycentryhistory>
+<ycentryhistory><Id>282</Id><YcEntryId>2</YcEntryId><Date>2011-05-12</Date><Value>0.0112129625</Value><UserCreated>1</UserCreated><IpCreated>192.168.0.0</IpCreated></ycentryhistory>
+<ycentryhistory><Id>283</Id><YcEntryId>3</YcEntryId><Date>2011-05-12</Date><Value>0.011440575</Value><UserCreated>1</UserCreated><IpCreated>192.168.0.0</IpCreated></ycentryhistory>
+
+</DataTable>

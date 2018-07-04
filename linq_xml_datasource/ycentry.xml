@@ -1,0 +1,7 @@
+﻿<DataTable>
+
+<ycentry><Id>1</Id><YieldCurveId>1</YieldCurveId><Type>deposit</Type><Length>1</Length><TimeUnit>Days</TimeUnit><RateId>1</RateId><DataProviderId>2</DataProviderId><DataReference>EE00O/N Index</DataReference><UserCreated>1</UserCreated><IpCreated>192.168.0.0</IpCreated></ycentry>
+<ycentry><Id>2</Id><YieldCurveId>1</YieldCurveId><Type>deposit</Type><Length>1</Length><TimeUnit>Weeks</TimeUnit><RateId>2</RateId><DataProviderId>2</DataProviderId><DataReference>EE0001W Index</DataReference><UserCreated>1</UserCreated><IpCreated>192.168.0.0</IpCreated></ycentry>
+<ycentry><Id>3</Id><YieldCurveId>1</YieldCurveId><Type>deposit</Type><Length>2</Length><TimeUnit>Weeks</TimeUnit><RateId>3</RateId><DataProviderId>2</DataProviderId><DataReference>EE0002W Index</DataReference><UserCreated>1</UserCreated><IpCreated>192.168.0.0</IpCreated></ycentry>
+
+</DataTable>

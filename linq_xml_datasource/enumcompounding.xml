@@ -1,0 +1,6 @@
+﻿<DataTable>
+<enumcompounding><Id>4</Id><Name>Absolute</Name></enumcompounding>
+<enumcompounding><Id>2</Id><Name>Actuarial</Name></enumcompounding>
+<enumcompounding><Id>3</Id><Name>Continuous</Name></enumcompounding>
+<enumcompounding><Id>1</Id><Name>Linear</Name></enumcompounding>
+</DataTable>
